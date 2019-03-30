@@ -1,0 +1,13 @@
+Installation Instructions:
+
+1) Download a copy of VirtualBox for your machine
+https://www.virtualbox.org/wiki/Downloads
+
+2) Install VirtualBox (last tested on 6.0.4)
+
+3) Download Ubuntu
+https://www.ubuntu.com/download/desktop
+
+4) Click New -> "BoxBox" -> Linux -> Ubuntu -> 4096MB -> 10GB virtual disk -> defaults.
+
+5) Run BotBox.  Select the downloaded ISO of Ubuntu.
